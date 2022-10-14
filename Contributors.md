@@ -5,6 +5,7 @@
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
+- [Ricky Osgood] (https://github.com/rosgood98)
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Jonatassn](https://github.com/jonatassn)
 - [Hywenklis Rherbert](https://github.com/hywenklis)
